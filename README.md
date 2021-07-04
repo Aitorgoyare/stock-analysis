@@ -7,8 +7,16 @@ The purpose of the project is to help Steve evaluate stocks of green energy comp
 In this original script we were able to run all the 2017 and 2018 data in the following amount of time.
 
 
+![](https://github.com/Aitorgoyare/stock-analysis/blob/main/Resources/VBA_Challenge_2017%20original.png)
+
+![](https://github.com/Aitorgoyare/stock-analysis/blob/main/Resources/VBA_Challenge_2017%20refactor.png)
 
 After refactoring the code we were able to get the VBA script to run faster.
+
+![](https://github.com/Aitorgoyare/stock-analysis/blob/main/Resources/VBA_Challenge_2018%20original.png)
+
+![](https://github.com/Aitorgoyare/stock-analysis/blob/main/Resources/VBA_Challenge_2018%20refactor.png)
+
 
 ###### Results
 
@@ -24,4 +32,4 @@ Disadvantages of code refactoring.
 
 * Depending on the size of the script it can make refactoring take a long period of time, where a time/cost analysis would have to be performed.
 
-*It may be that after a refactoring of the script is accomplished it may make it slightly faster or perhaps slower.
+* It may be that after a refactoring of the script is accomplished it may make it slightly faster or perhaps slower.
